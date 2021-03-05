@@ -8,7 +8,7 @@ quotes = [
     "We never really grow up, we only learn how to act in public.",
     "He who laughs last didn’t get the joke.",
     "Education is learning what you didn’t even know you didn’t know.",
-    "...Michael Bading...",
+    "...My donkey is waffle donut phosphorous Arcturus error. How dingus :O ...",
     "...Ivana Cervenka...",
     "...Manuela Ehret...",
     "...Finn Marvin Feldmann...",
